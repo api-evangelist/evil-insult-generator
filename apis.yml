@@ -39,7 +39,6 @@ apis:
   - name: Evil Insult Generator
     description: "Evil Insults"
     humanURL: https://evilinsult.com/api
-    baseURL: https://evilinsult.com/api
     tags:
       - Open Source Projects
     properties:
